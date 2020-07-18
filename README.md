@@ -1,4 +1,4 @@
-##Hello Visitor's 🖐, Wanna know shorcuts about me? It's me in below.
+## Hello Visitor's 🖐, Wanna know shorcuts about me? It's me in below.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=farridkun&show_icons=true)
 
