@@ -47,19 +47,19 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center" style="padding-bottom: 30px">
-        <span>LinkedIn</span><br><br> 
+        <span><a target="_blank" href="https://linkedin.com/in/farridkun">LinkedIn</a></span><br><br> 
         <img height="64px" src="#">
       </td>
       <td width="25%" align="center">
-        <span>Instagram</span><br><br> 
+        <span><a target="_blank" href="https://instagram.com/farrid_jr">Instagram</a></span><br><br> 
         <img height="64px" src="#">
       </td>
       <td width="25%" align="center">
-        <span>Twitter</span><br><br> 
+        <span><a target="_blank" href="https://twitter.com/kuntoro_farrid">Twitter</a></span><br><br> 
         <img height="64px" src="#">
       </td>
       <td width="25%" align="center">
-        <span>Email</span><br><br> 
+        <span><a target="_blank" href="mailto:farridguntoro@gmail.com">Email</a></span><br><br> 
         <img height="64px" src="#">
       </td>
     </tr>
