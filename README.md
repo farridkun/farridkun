@@ -27,7 +27,7 @@
 </table>
 
 
-### Current Projects : 
+### Current Huge Projects : 
 - Inventory Management on DPRD Kota Cimahi.
 - E-Lib Letters on DISKOMINFO-ARPUS Kota Cimahi.
 - Management System & POS on Groovy Sunday.  
