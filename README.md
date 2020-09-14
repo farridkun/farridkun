@@ -7,11 +7,11 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center" style="padding-bottom: 30px">
-        <span>Laravel</span><br><br> 
+        <span>Laravel & ReactJS</span><br><br> 
         <img height="64px" src="#">
       </td>
       <td width="25%" align="center">
-        <span>Design</span><br><br> 
+        <span>Design Pattern</span><br><br> 
         <img height="64px" src="#">
       </td>
       <td width="25%" align="center">
