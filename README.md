@@ -7,7 +7,7 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center" style="padding-bottom: 30px">
-        <span>Laravel</span><br><br> 
+        <span>Dots Connect</span><br><br> 
         <img height="64px" src="#">
       </td>
       <td width="25%" align="center">
