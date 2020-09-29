@@ -26,23 +26,6 @@
   </tbody>
 </table>
 
-
-### Current Huge Projects : 
-- Inventory Management on DPRD Kota Cimahi.
-- E-Lib Letters on DISKOMINFO-ARPUS Kota Cimahi.
-- Management System & POS on Groovy Sunday.  
-- Business Market Plan FOLE Manufactures.  
-- Branding & Analyst Kang HD IKA UNPAD.  
-
-### Roles :
-- Chief Executive Officer (CEO) BRCND Digital.
-- Chief Technology Officer (CTO) Aruna Visual.
-- Chief Technology Officer (CTO) Rumah Pokok.
-- Chief Technology Officer (CTO) FOLE Manufactures.
-- Chief Technology Officer (CTO) Marry Weekend.
-- Technology Officer Kita Untuk Indonesia.
-- Conceptors Technologies.
-
 ## Any Projects or Interest to contact me?
 <table>
   <tbody>
