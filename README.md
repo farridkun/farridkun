@@ -7,7 +7,7 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center" style="padding-bottom: 30px">
-        <span>Laravel & ReactJS</span><br><br> 
+        <span>Laravel</span><br><br> 
         <img height="64px" src="#">
       </td>
       <td width="25%" align="center">
@@ -40,7 +40,8 @@
 - Chief Technology Officer (CTO) Rumah Pokok.
 - Chief Technology Officer (CTO) FOLE Manufactures.
 - Chief Technology Officer (CTO) Marry Weekend.
-- Speaker & Conceptors Technologies.
+- Technology Officer Kita Untuk Indonesia.
+- Conceptors Technologies.
 
 ## Any Projects or Interest to contact me?
 <table>
