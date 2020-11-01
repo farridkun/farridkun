@@ -31,20 +31,20 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center" style="padding-bottom: 30px">
-        <span><a target="_blank" href="https://linkedin.com/in/farridkun">LinkedIn</a></span><br><br> 
-        <img height="64px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111368.svg">
+        <span><a target="_blank" href="https://linkedin.com/in/farridkun">LinkedIn</a></span><br> 
+        <img height="32px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111368.svg">
       </td>
       <td width="25%" align="center">
-        <span><a target="_blank" href="https://instagram.com/farrid_jr">Instagram</a></span><br><br> 
-        <img height="64px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111336.svg">
+        <span><a target="_blank" href="https://instagram.com/farrid_jr">Instagram</a></span><br>
+        <img height="32px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111336.svg">
       </td>
       <td width="25%" align="center">
-        <span><a target="_blank" href="https://twitter.com/kuntoro_farrid">Twitter</a></span><br><br> 
-        <img height="64px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111580.svg">
+        <span><a target="_blank" href="https://twitter.com/kuntoro_farrid">Twitter</a></span><br> 
+        <img height="32px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111580.svg">
       </td>
       <td width="25%" align="center">
-        <span><a target="_blank" href="mailto:farridguntoro@gmail.com">Email</a></span><br><br> 
-        <img height="64px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111387.svg">
+        <span><a target="_blank" href="mailto:farridguntoro@gmail.com">Email</a></span><br>
+        <img height="32px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111387.svg">
       </td>
     </tr>
   </tbody>
