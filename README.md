@@ -11,7 +11,7 @@
         <img height="64px" src="https://www.flaticon.com/svg/static/icons/svg/3659/3659695.svg">
       </td>
       <td width="25%" align="center">
-        <span>Design Pattern</span><br><br><br>
+        <span>Frontend Engineer</span><br><br><br>
         <img height="64px" src="https://www.flaticon.com/svg/static/icons/svg/3658/3658813.svg">
       </td>
       <td width="25%" align="center">
