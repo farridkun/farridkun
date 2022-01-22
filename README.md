@@ -1,6 +1,7 @@
 ## Hello Visitor's 🖐, <br/>Wanna know shorcuts about me? It's me in below.
 Expands the Plan and Growth the Code, More Interest or Enthusiasts of Front-End Engineer 🎈 <br/>
-**Actualy active too on [Gitlab](https://gitlab.com/farridkun)**
+<!-- **Actualy active too on [Gitlab](https://gitlab.com/farridkun)** -->
+**Currently active on private repo's, i can't show the tracks but you can reach out to me 🙂**
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=farridkun&show_icons=true)
 
