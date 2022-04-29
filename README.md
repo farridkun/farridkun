@@ -1,55 +1,41 @@
-## Hello Visitor's 🖐, <br/>Wanna know shorcuts about me? It's me in below.
-Expands the Plan and Growth the Code, More Interest or Enthusiasts of Front-End Engineer 🎈 <br/>
-<!-- **Actualy active too on [Gitlab](https://gitlab.com/farridkun)** -->
-**Currently active on private repo's, i can't show the tracks but you can reach out to me 🙂**
+![Follow](https://img.shields.io/twitter/follow/kuntoro_farrid?color=%231DA1F2&logo=Twitter&style=flat-square)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=farridkun&show_icons=true)
+![banner](https://github.com/gregogun/gregogun/blob/master/src/profile-banner.png)
 
-### Confidence Deep Understanding on:  
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center" style="padding-bottom: 30px">
-        <span>Dots Connect</span><br><br><br>
-        <img height="64px" src="https://www.flaticon.com/svg/static/icons/svg/3659/3659695.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Frontend Engineer</span><br><br><br>
-        <img height="64px" src="https://www.flaticon.com/svg/static/icons/svg/3658/3658813.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Business Analyst</span><br><br> 
-        <img height="64px" src="https://www.flaticon.com/svg/static/icons/svg/3658/3658797.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Human Develops</span><br><br> 
-        <img height="64px" src="https://www.flaticon.com/svg/static/icons/svg/3658/3658828.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+# 👋 Hey, I'm Farrid Kuntoro.
 
-## Any Projects or Interest to contact me?
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center" style="padding-bottom: 30px">
-        <span><a target="_blank" href="https://linkedin.com/in/farridkun">LinkedIn</a></span><br> 
-        <img height="32px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111368.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><a target="_blank" href="https://instagram.com/farrid_jr">Instagram</a></span><br>
-        <img height="32px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111336.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><a target="_blank" href="https://twitter.com/kuntoro_farrid">Twitter</a></span><br> 
-        <img height="32px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111580.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><a target="_blank" href="mailto:farridguntoro@gmail.com">Email</a></span><br>
-        <img height="32px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111387.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+I’m a self taught developer with a focus on designing and building scalable, maintainable and accessible solutions on the web & mobile hybrid.
 
+I work mainly on the frontend writing React code, however I'm also becoming interested in the fullstack approach, with some knowledge around Node.js and GraphQL that I aim to build on through personal projects.
+
+--- 
+
+## 🚀 I'm currently working on: 
+
+Building the Open Source template web for Laundry, with Next.js, Tailwinds and Storybook. You can watch me build it at [here](https://github.com/farridkun/LaundryKun)!
+
+--- 
+
+## 📚 I'm currently learning: 
+
+- Next.js
+- Typescript
+- Testing/TDD
+- Go (Echo)
+
+--- 
+
+## ❤ I'm passionate about: 
+
+- Helping to make the web & mobile apps more accessible.
+- Building a communuity around what I love.
+- Brainstorming and building new ideas.
+
+---
+
+## 💭 I want to learn more about: 
+
+- Accessibility
+- Design Systems
+- Functional Programming
+- New happening languages programming
