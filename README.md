@@ -1,6 +1,6 @@
 ![Follow](https://img.shields.io/twitter/follow/kuntoro_farrid?color=%231DA1F2&logo=Twitter&style=flat-square)
 
-![banner](https://github.com/gregogun/gregogun/blob/master/src/profile-banner.png)
+![banner](https://github.com/farridkun/farridkun/blob/master/src/profile-banner.png)
 
 # 👋 Hey, I'm Farrid Kuntoro.
 
