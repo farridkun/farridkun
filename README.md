@@ -6,7 +6,7 @@
 
 I’m a self taught developer with a focus on designing and building scalable, maintainable and accessible solutions on the web & mobile hybrid.
 
-I work mainly on the frontend writing React code, however I'm also becoming interested in the fullstack approach, with some knowledge around Node.js and GraphQL that I aim to build on through personal projects.
+I work mainly on the frontend writing React code (espically nextjs), however I'm also becoming interested in the fullstack approach, with some knowledge around Node.js and GraphQL that I aim to build on through personal projects.
 
 --- 
 
@@ -18,10 +18,10 @@ Building the Open Source template web for Laundry, with Next.js, Tailwinds and S
 
 ## 📚 I'm currently learning: 
 
-- Next.js
-- Typescript
-- Testing/TDD
-- Go (Echo)
+- Flutter
+- Digital Business Development
+- Swift
+- Go (Echo & Gin)
 
 --- 
 
@@ -29,6 +29,7 @@ Building the Open Source template web for Laundry, with Next.js, Tailwinds and S
 
 - Helping to make the web & mobile apps more accessible.
 - Building a communuity around what I love.
+- Refactor & Make it realible.
 - Brainstorming and building new ideas.
 
 ---
@@ -39,3 +40,4 @@ Building the Open Source template web for Laundry, with Next.js, Tailwinds and S
 - Design Systems
 - Functional Programming
 - New happening languages programming
+- Efficiency Development
