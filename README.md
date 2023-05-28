@@ -39,5 +39,5 @@ Apart from working full time i also have projects that i develop myself when my 
 - Accessibility
 - Design Systems
 - Functional Programming
-- New happening languages programming
+- New happening languages programming/framework (especially in JS)
 - Efficiency Development
