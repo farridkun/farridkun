@@ -12,7 +12,7 @@ I work mainly on the frontend writing React code (espically nextjs), however I'm
 
 ## 🚀 I'm currently working on: 
 
-Building the Open Source template web for Laundry, with Next.js, Tailwinds and Storybook. You can watch me build it at [here](https://github.com/farridkun/LaundryKun)!
+Apart from working full time i also have projects that i develop myself when my primary work as employee is waiting for a new challenge/task 😉, i building the Open Source template web for Laundry, with Next.js, Tailwinds and Storybook. You can watch me build it at [here](https://github.com/farridkun/LaundryKun)!
 
 --- 
 
